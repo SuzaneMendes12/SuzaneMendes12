@@ -2,8 +2,7 @@
  
 # Primeiro semestre de ADS 💻
 ![Suzane GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzaneMendes12&show_icons=true&theme=neon)
-
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SuzaneMendes12&show_icons=true&theme=radical&layout=compact"/>
+<img width=40%  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SuzaneMendes12&show_icons=true&theme=radical&layout=compact"/>
  </div>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzaneMendes12&langs_count=8) -->
 
