@@ -1,6 +1,6 @@
 ### Bem vindo 👋🏼
  
-# Primeiro semestre de ADS 💻
+# Voltando a Programar 💻
 
 <!--<img align="right" width="100px" heigth="100px" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png "/>-->
 
