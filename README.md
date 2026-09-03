@@ -27,7 +27,7 @@
  <img align= "center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </div> <br>
 
- Tecnica em nutrição e ex atleta de muay thai, descobrindo a tecnologia😄
+ Tecnica em nutrição e ex atleta de muay thai, descobrindo a tecnologia e cursando odontologia😄
 
 
 
