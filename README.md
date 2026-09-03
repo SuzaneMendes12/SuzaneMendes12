@@ -4,7 +4,7 @@
 
 <!--<img align="right" width="100px" heigth="100px" src=" "/>-->
 
-username=SuzaneMendes12&show_icons=true&theme=radical&layout=compact"/>
+
  </div>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzaneMendes12&langs_count=8) -->
 
